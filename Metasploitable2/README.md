@@ -19,7 +19,7 @@ This project demonstrates basic **penetration testing techniques** using **Metas
 
 ## 🖥️ Environment Setup
 
-### Step 1: Identify Metasploitable2 IP Address
+### Step 1: Identifying the Metasploitable2 IP Address
 
 Identified the IP address of Metasploitable2 using the following command:
 
